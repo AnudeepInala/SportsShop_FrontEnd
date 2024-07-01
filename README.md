@@ -1,9 +1,5 @@
 # SportsShop_FrontEnd
 
-# SportsShop_BackEnd
-
-
-
 
 https://github.com/AnudeepInala/SportsShop_BackEnd/assets/78262590/4848e4e5-422f-42be-ae7f-c185d7a67244
 
